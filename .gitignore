@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# Scrapy
+.scrapy/
+*.log
+
+# Sorties de crawl
+*.csv
+
+# Secrets
+.env
+
+# OS / éditeurs
+.DS_Store
+.idea/
+.vscode/
